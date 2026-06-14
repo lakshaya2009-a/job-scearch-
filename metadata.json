@@ -1,0 +1,6 @@
+{
+  "name": "Job Search AI Agent",
+  "description": "An AI-powered career assistant that automates job searching, optimizes resumes for ATS, conducts interactive mock interviews, and guides career path planning in the Indian job market.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
